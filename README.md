@@ -3,11 +3,11 @@
 ## It's just a Simple Collection of my Java Projects
 
 ### They are 5 Java based Projects that I have developed using Swings and some are simple Encryption Algorithms:
-[CaesarCipher](#caesar-cipher)
-[Currency Converter](#currency-converter)
-[DheerCipher](#dheercipher)
-[Jumbler](#jumbler)
-[Onlinetest](#online-test)
+- [CaesarCipher](#caesar-cipher)
+- [Currency Converter](#currency-converter)
+- [DheerCipher](#dheercipher)
+- [Jumbler](#jumbler)
+- [Onlinetest](#online-test)
 
 ### Caesar Cipher
 The Most popular and simple encryption systems of all. Implementation of Caesar Cipher could be of many ways but I have modified it and made it more simple using Hash-Indexes using which the Encryption and Decryption ie. shift of letters could be done much more quickly.
